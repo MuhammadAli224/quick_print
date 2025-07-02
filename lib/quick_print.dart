@@ -40,3 +40,7 @@ library quick_print;
 export 'src/enums/printer_device_type.dart';
 export 'src/quick_print_base.dart';
 export 'src/service/printer_discovery_service.dart';
+export 'src/models/printer_model/i_printer_model.dart';
+export 'src/models/printer_model/bluetooth_printer_model.dart';
+export 'src/models/printer_model/decktop_printer_model.dart';
+export 'src/models/printer_model/use_printer_model.dart';
